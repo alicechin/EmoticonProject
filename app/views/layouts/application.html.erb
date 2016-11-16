@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= full_title(yield(:title)) %>t</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <!-- <%= csrf_meta_tags %> -->
+</head>
+<body>
+	<%= render 'layouts/header' %>
+    <div class="container">
+<!-- Yields what is on those pages -->
+	<%= yield %>
+	<!-- Calls from layouts -->
+	<%= render 'layouts/footer' %>
+
+</body>
+</html>
