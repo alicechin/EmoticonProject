@@ -1,4 +1,8 @@
 class UsersController < ApplicationController
+  def index
+    @users = User.all
+  end
+
   def new
   end
 
@@ -24,4 +28,5 @@ class UsersController < ApplicationController
     params.require(:user).permit(:name, :email, :password,
       :password_confirmation)
   end
+
 end
