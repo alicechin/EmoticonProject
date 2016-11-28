@@ -1,0 +1,8 @@
+<td><%= gravatar_for user, size: 50 %></td>
+<td> <%= link_to user.email, user %></td>
+  
+ <td> <%= link_to user.name, user %></td>
+  <td><%= link_to "delete", user, method: :delete,
+                                  data: { confirm: "You sure?" } %>
+
+</td>

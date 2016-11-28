@@ -1,17 +1,25 @@
 class StaticPagesController < ApplicationController
-  def home
-  end
 
-  def help
-  end
+	def index
+		@users = User.all
+	end
 
-  def about
-  end
+	def home
+	end
 
-  def contact
-  end
+	def help
+	end
 
-  def display_user
-  	@users = User.all
-  end
+	def about
+	end
+
+	def contact
+	end
+
+	def signin
+	end
+
+	def display_user
+		@users = User.all
+	end
 end
