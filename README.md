@@ -48,7 +48,7 @@ Posts:
 
 * Hyun Ho Lee: forms, post forms, delete functions
 
-* Ben Jong: shard views, screencast
+* Ben Jong: shard views, seed file, screencast
 
 * Muying Chen: views, static pages, write up
 
