@@ -13,6 +13,9 @@
 Users:
 
   * has many emotions and posts 
+  
+  * has emails and names
+  
 
 Emotions:
 
@@ -21,6 +24,8 @@ Emotions:
 Posts:
 
   * belongs to users
+  
+  * has content and post time
 
 **Features**:
 
