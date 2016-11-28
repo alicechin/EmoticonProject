@@ -16,7 +16,6 @@ Users:
   
   * has emails and names
   
-
 Emotions:
 
   * belong to users
@@ -26,6 +25,8 @@ Posts:
   * belongs to users
   
   * has content and post time
+  
+  * can be deleted by own user but not other users
 
 **Features**:
 
