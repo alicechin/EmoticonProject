@@ -4,7 +4,7 @@
 
 **Team Members**: Alice Chin, Ben Jong, Hyun Ho Lee, Muying Chen.
 
-**Demo Link**: [Click here] (https://drive.google.com/file/d/0B9o42xWSMmdKcjlJQ0hnY0hEQnlxaVhwSDZPYlJEY0FYcU04/view?usp=sharing)
+**Demo Link**: [Click here] (https://www.youtube.com/watch?v=BCShzjKpNuw)
 
 **Idea**: A project for users to express their emotions and post comments about the 2016 Election (Trump). Users can also check other users' posts. 
 
