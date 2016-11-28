@@ -44,12 +44,14 @@ Posts:
 
 **Division of Labor**:
 
-* Alice Chin: Made most models
+* Alice Chin: footer, header, views, sassy CSS
 
-* Hyun Ho Lee: Made most models
+* Hyun Ho Lee: forms, post forms, delete functions
 
-* Ben Jong: Made some models and screencast
+* Ben Jong: shard views, screencast
 
-* Muying Chen: Made some models and write up
+* Muying Chen: views, static pages, write up
+
+* Everything else we collaborated all together :) 
 
 Thank you very much! :+1: :sparkles: :tada: :octocat:  
